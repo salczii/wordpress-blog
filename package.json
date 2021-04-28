@@ -1,0 +1,1 @@
+{"name":"gatsby-wp-blog","version":"1.0.0","private":true,"description":"gatsby-wp-blog","author":"Kacper Salek","keywords":["gatsby"],"scripts":{"develop":"gatsby develop","start":"gatsby develop","build":"gatsby build","serve":"gatsby serve","clean":"gatsby clean"},"dependencies":{"gatsby":"^3.3.1","gatsby-source-wordpress":"^5.4.0","react":"^17.0.1","react-dom":"^17.0.1"}}
