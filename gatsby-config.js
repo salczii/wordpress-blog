@@ -3,6 +3,8 @@ module.exports = {
     title: "gatsby-wp-blog",
   },
   plugins: [
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     {
       resolve: "gatsby-source-wordpress",
       options: {
